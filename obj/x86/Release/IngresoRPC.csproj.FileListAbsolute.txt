@@ -1,0 +1,16 @@
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\bin\Release\IngresoRPC.exe.config
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\bin\Release\ConfigRPC.xml
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\bin\Release\IngresoRPC.exe
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\bin\Release\IngresoRPC.pdb
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\bin\Release\office.dll
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\bin\Release\office.xml
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\obj\x86\Release\IngresoRPC.Ingreso.resources
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\obj\x86\Release\IngresoRPC.Properties.Resources.resources
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\obj\x86\Release\IngresoRPC.csproj.GenerateResource.Cache
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\obj\x86\Release\IngresoRPC.exe
+C:\Users\Gastón\Documents\Visual Studio 2010\Projects\IngresoRPC\IngresoRPC\obj\x86\Release\IngresoRPC.pdb
